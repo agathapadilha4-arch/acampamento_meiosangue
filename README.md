@@ -37,11 +37,11 @@ Plano B: sem internet = roda normalmente se o livro estiver na pasta.
      EXEMPLO Viabilidade: Com app no navegador (HTML/CSS/JS + armazenamento local),
      criar e listar chamados responde em até 1 segundo na maioria das vezes (ex.: 9 de cada 10).
      Validação: medir no protótipo com 30 ações; meta: pelo menos 27 de 30 ações (9/10) em 1s ou menos. -->
-H-Valor: Se o leitor tiver opçãoes de fundo, então melhora em visualização.  
-Validação (valor): O leitor conseguir mudar de fundo como se tivesse virando a página em 2s; alvo: [meta simples].
+H-Valor: Se o leitor tiver opçãoes de mudar a cor de fundo, então melhorá a visualização do livro.  
+Validação (valor): O leitor conseguir mudar a cor de fundo com apenas um clique; alvo: deixar o leitor confortável.
 
 H-Viabilidade: Com [tecnologia], [ação/tela] leva até [n] s.  
-Validação (viabilidade): [medição no protótipo]; meta: [n] s ou menos na maioria das vezes (ex.: 9/10).
+Validação (viabilidade): a medida que o livro receber mais avaliação positivas, ficará no topo; meta: .
 
 ## 6) Fluxo principal e primeira fatia
 1) O leitor ou o autor faz o login
